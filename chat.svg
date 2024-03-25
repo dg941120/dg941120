@@ -228,7 +228,7 @@
   
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="130" height="42" rx="18.0355" />
-    <text x="15" y="27">안녕하세요 🙋‍♀️</text>
+    <text x="15" y="27">안녕하세요!</text>
   </g>
 
   <!-- typing 2 -->
@@ -278,7 +278,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">자바나 스프링을 주로 사용하며</text>
-    <text x="15" y="50">php, docker 등의 기술등도 사용해보았습니다. </text>
+    <text x="15" y="50">php, jeus ,html 등도 사용해보았습니다. </text>
   </g>
 
   <!-- typing 4 -->
@@ -302,7 +302,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="415" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a href="https://valley-feels-abc.notion.site/Coder_DEV-55d60546bfb24dc7821b848f640d5e09">notion</a> 에도 놀러오세요 !</text>
+    <text x="15" y="27"><a href="https://valley-feels-abc.notion.site/Coder_DEV-55d60546bfb24dc7821b848f640d5e09">Notion</a> 에도 놀러오세요 !</text>
   </g>
 
   <!-- typing 5 -->
@@ -326,7 +326,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="350" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">행복한</text>
-    <text x="15" y="47">하루 보내세요!  <tspan class="emoji">👻</tspan></text>
+    <text x="15" y="27">읽어주셔서 감사합니다!</text>
+    <text x="15" y="47">즐거운 하루 보내세요 <tspan class="emoji">👻</tspan></text>
   </g>
 </svg>
