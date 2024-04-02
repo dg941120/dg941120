@@ -291,7 +291,7 @@
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
     </circle>
     <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />noreferrer
     </circle>
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
@@ -302,7 +302,7 @@
   <!-- Notion -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="415" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a href="https://valley-feels-abc.notion.site/Coder_DEV-55d60546bfb24dc7821b848f640d5e09">Notion</a> 에도 놀러오세요 !</text>
+    <text x="15" y="27"><a href="https://valley-feels-abc.notion.site/Coder_DEV-55d60546bfb24dc7821b848f640d5e09">Notion</a> 도 방문해주세요 !</text>
   </g>
 
   <!-- typing 5 -->
