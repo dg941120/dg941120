@@ -5,7 +5,7 @@
 <!--   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=🙋‍♀️) -->
 
 <!-- 메시지 형식의 자기소개 --> 
-(https://github.com/dg941120/dg941120/blob/main/chat.svg)
+![https://valley-feels-abc.notion.site/20240110-8a4fb5da596943d3ad891cce3f2d90f0?pvs=74](https://github.com/dg941120/dg941120/blob/main/chat.svg)
 
 <!-- 테크 스택 --> 
  ### ⚙️ Tech Stack 
